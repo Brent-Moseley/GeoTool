@@ -1,0 +1,2161 @@
+1. Current latitude: 33.3214805
+Current longitude: -111.9902138
+Position estimated accurate to: 379 feet.
+
+
+2. Current latitude: 33.3214805
+Current longitude: -111.9902138
+Position estimated accurate to: 379 feet.
+
+
+3. Current latitude: 33.3253183
+Current longitude: -111.9896482
+Position estimated accurate to: 98 feet.
+
+
+4. Current latitude: 33.3253183
+Current longitude: -111.9896482
+Position estimated accurate to: 99 feet.
+
+
+5. Current latitude: 33.3299773
+Current longitude: -111.9877052
+Position estimated accurate to: 96 feet.
+
+
+6. Current latitude: 33.3299773
+Current longitude: -111.9877052
+Position estimated accurate to: 96 feet.
+
+
+7. Current latitude: 33.331192
+Current longitude: -111.9869211
+Position estimated accurate to: 118 feet.
+
+
+8. Current latitude: 33.331192
+Current longitude: -111.9869211
+Position estimated accurate to: 119 feet.
+
+
+9. Current latitude: 33.3310618
+Current longitude: -111.9851352
+Position estimated accurate to: 86 feet.
+
+
+10. Current latitude: 33.3310618
+Current longitude: -111.9851352
+Position estimated accurate to: 87 feet.
+
+
+11. Current latitude: 33.330477
+Current longitude: -111.9825553
+Position estimated accurate to: 81 feet.
+
+
+12. Current latitude: 33.330477
+Current longitude: -111.9825553
+Position estimated accurate to: 83 feet.
+
+
+13. Current latitude: 33.3288768
+Current longitude: -111.9804176
+Position estimated accurate to: 150 feet.
+
+
+14. Current latitude: 33.3307162
+Current longitude: -111.9810224
+Position estimated accurate to: 26 feet.
+Current altitude: 1186 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+15. Current latitude: 33.3308246
+Current longitude: -111.9809653
+Position estimated accurate to: 39 feet.
+Current altitude: 1209 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 2 mph.
+Heading: 23degrees
+
+
+16. Current latitude: 33.330715
+Current longitude: -111.9810557
+Position estimated accurate to: 26 feet.
+Current altitude: 1167 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 4 mph.
+Heading: 215degrees
+
+
+17. Current latitude: 33.3307137
+Current longitude: -111.9810815
+Position estimated accurate to: 26 feet.
+Current altitude: 1188 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 1 mph.
+Heading: 265degrees
+
+
+18. Current latitude: 33.3307137
+Current longitude: -111.9810815
+Position estimated accurate to: 26 feet.
+Current altitude: 1188 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 1 mph.
+Heading: 265degrees
+
+
+19. Current latitude: 33.3312593
+Current longitude: -111.9812209
+Position estimated accurate to: 72 feet.
+
+
+20. Current latitude: 33.3312771
+Current longitude: -111.981231
+Position estimated accurate to: 56 feet.
+
+
+21. Current latitude: 33.3312771
+Current longitude: -111.981231
+Position estimated accurate to: 56 feet.
+
+
+22. Current latitude: 33.3317232
+Current longitude: -111.9793751
+Position estimated accurate to: 74 feet.
+
+
+23. Current latitude: 33.3319096
+Current longitude: -111.9781896
+Position estimated accurate to: 98 feet.
+
+
+24. Current latitude: 33.3319096
+Current longitude: -111.9781896
+Position estimated accurate to: 100 feet.
+
+
+25. Current latitude: 33.334638
+Current longitude: -111.9753131
+Position estimated accurate to: 90 feet.
+
+
+26. Current latitude: 33.3343364
+Current longitude: -111.9728336
+Position estimated accurate to: 20 feet.
+Current altitude: 1150 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+27. Current latitude: 33.334638
+Current longitude: -111.9753131
+Position estimated accurate to: 74 feet.
+
+
+28. Current latitude: 33.3343504
+Current longitude: -111.9718855
+Position estimated accurate to: 26 feet.
+Current altitude: 1165 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 3 mph.
+Heading: 79degrees
+
+
+29. Current latitude: 33.334782
+Current longitude: -111.971392
+Position estimated accurate to: 26 feet.
+Current altitude: 1228 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 13 mph.
+Heading: 43degrees
+
+
+30. Current latitude: 33.3356359
+Current longitude: -111.9716306
+Position estimated accurate to: 39 feet.
+Current altitude: 1126 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 24 mph.
+Heading: 347degrees
+
+
+31. Current latitude: 33.3368311
+Current longitude: -111.9717557
+Position estimated accurate to: 26 feet.
+Current altitude: 1140 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 30 mph.
+Heading: 355degrees
+
+
+32. Current latitude: 33.3368311
+Current longitude: -111.9717557
+Position estimated accurate to: 26 feet.
+Current altitude: 1140 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 30 mph.
+Heading: 355degrees
+
+
+33. Current latitude: 33.3376641
+Current longitude: -111.9715761
+Position estimated accurate to: 165 feet.
+
+
+34. Current latitude: 33.3401247
+Current longitude: -111.9719719
+Position estimated accurate to: 79 feet.
+Current altitude: 1233 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+35. Current latitude: 33.3408605
+Current longitude: -111.97202
+Position estimated accurate to: 79 feet.
+Current altitude: 1209 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 26 mph.
+Heading: 357degrees
+
+
+36. Current latitude: 33.3426882
+Current longitude: -111.9720434
+Position estimated accurate to: 52 feet.
+Current altitude: 1184 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 44 mph.
+Heading: 0degrees
+
+
+37. Current latitude: 33.3442505
+Current longitude: -111.9720353
+Position estimated accurate to: 26 feet.
+Current altitude: 1192 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 30 mph.
+Heading: 0degrees
+
+
+38. Current latitude: 33.3450239
+Current longitude: -111.972031
+Position estimated accurate to: 78 feet.
+Current altitude: 1170 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 24 mph.
+Heading: 0degrees
+
+
+39. Current latitude: 33.3460186
+Current longitude: -111.9720355
+Position estimated accurate to: 52 feet.
+Current altitude: 1172 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 25 mph.
+Heading: 0degrees
+
+
+40. Current latitude: 33.3469425
+Current longitude: -111.9719666
+Position estimated accurate to: 26 feet.
+Current altitude: 1181 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 25 mph.
+Heading: 3degrees
+
+
+41. Current latitude: 33.3485967
+Current longitude: -111.9718987
+Position estimated accurate to: 52 feet.
+Current altitude: 1221 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+42. Current latitude: 33.3497201
+Current longitude: -111.9716418
+Position estimated accurate to: 105 feet.
+Current altitude: 1140 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 41 mph.
+Heading: 10degrees
+
+
+43. Current latitude: 33.350813
+Current longitude: -111.9715128
+Position estimated accurate to: 39 feet.
+Current altitude: 1170 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 31 mph.
+Heading: 6degrees
+
+
+44. Current latitude: 33.3518713
+Current longitude: -111.9714353
+Position estimated accurate to: 103 feet.
+Current altitude: 1186 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 33 mph.
+Heading: 3degrees
+
+
+45. Current latitude: 33.3534211
+Current longitude: -111.9711114
+Position estimated accurate to: 154 feet.
+Current altitude: 1144 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 30 mph.
+Heading: 9degrees
+
+
+46. Current latitude: 33.3549519
+Current longitude: -111.970721
+Position estimated accurate to: 52 feet.
+Current altitude: 1142 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 43 mph.
+Heading: 11degrees
+
+
+47. Current latitude: 33.3564734
+Current longitude: -111.9704462
+Position estimated accurate to: 39 feet.
+Current altitude: 1113 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 38 mph.
+Heading: 8degrees
+
+
+48. Current latitude: 33.3581755
+Current longitude: -111.9699456
+Position estimated accurate to: 52 feet.
+Current altitude: 1159 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 40 mph.
+Heading: 13degrees
+
+
+49. Current latitude: 33.3595382
+Current longitude: -111.9695818
+Position estimated accurate to: 52 feet.
+Current altitude: 1186 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 39 mph.
+Heading: 12degrees
+
+
+50. Current latitude: 33.3610564
+Current longitude: -111.9693236
+Position estimated accurate to: 104 feet.
+Current altitude: 1066 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 35 mph.
+Heading: 8degrees
+
+
+51. Current latitude: 33.3624012
+Current longitude: -111.9689579
+Position estimated accurate to: 104 feet.
+Current altitude: 1195 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 35 mph.
+Heading: 12degrees
+
+
+52. Current latitude: 33.3634582
+Current longitude: -111.9687677
+Position estimated accurate to: 52 feet.
+Current altitude: 1190 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 27 mph.
+Heading: 8degrees
+
+
+53. Current latitude: 33.3642454
+Current longitude: -111.9685196
+Position estimated accurate to: 104 feet.
+Current altitude: 1227 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 20 mph.
+Heading: 14degrees
+
+
+54. Current latitude: 33.364622
+Current longitude: -111.9684133
+Position estimated accurate to: 52 feet.
+Current altitude: 1199 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 11 mph.
+Heading: 13degrees
+
+
+55. Current latitude: 33.365363
+Current longitude: -111.9683886
+Position estimated accurate to: 20 feet.
+Current altitude: 1208 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 14 mph.
+Heading: 1degrees
+
+
+56. Current latitude: 33.3660308
+Current longitude: -111.9682887
+Position estimated accurate to: 52 feet.
+Current altitude: 1182 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 24 mph.
+Heading: 7degrees
+
+
+57. Current latitude: 33.3674311
+Current longitude: -111.9681672
+Position estimated accurate to: 26 feet.
+Current altitude: 1196 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 29 mph.
+Heading: 4degrees
+
+
+58. Current latitude: 33.3683779
+Current longitude: -111.9680296
+Position estimated accurate to: 78 feet.
+Current altitude: 1166 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 30 mph.
+Heading: 6degrees
+
+
+59. Current latitude: 33.3696558
+Current longitude: -111.9679123
+Position estimated accurate to: 52 feet.
+Current altitude: 1169 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 32 mph.
+Heading: 4degrees
+
+
+60. Current latitude: 33.370785
+Current longitude: -111.9678261
+Position estimated accurate to: 52 feet.
+Current altitude: 1167 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 26 mph.
+Heading: 3degrees
+
+
+61. Current latitude: 33.371448
+Current longitude: -111.967836
+Position estimated accurate to: 78 feet.
+Current altitude: 1147 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 17 mph.
+Heading: 0degrees
+
+
+62. Current latitude: 33.371936
+Current longitude: -111.9678199
+Position estimated accurate to: 152 feet.
+Current altitude: 1161 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 14 mph.
+Heading: 1degrees
+
+
+63. Current latitude: 33.3729602
+Current longitude: -111.967816
+Position estimated accurate to: 52 feet.
+Current altitude: 1167 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 24 mph.
+Heading: 0degrees
+
+
+64. Current latitude: 33.374332
+Current longitude: -111.9678521
+Position estimated accurate to: 26 feet.
+Current altitude: 1110 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 26 mph.
+Heading: 359degrees
+
+
+65. Current latitude: 33.3746773
+Current longitude: -111.9678417
+Position estimated accurate to: 39 feet.
+Current altitude: 1167 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 12 mph.
+Heading: 1degrees
+
+
+66. Current latitude: 33.3753357
+Current longitude: -111.9676972
+Position estimated accurate to: 78 feet.
+Current altitude: 1095 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 17 mph.
+Heading: 10degrees
+
+
+67. Current latitude: 33.3757283
+Current longitude: -111.9677854
+Position estimated accurate to: 39 feet.
+Current altitude: 1135 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 10 mph.
+Heading: 351degrees
+
+
+68. Current latitude: 33.3766557
+Current longitude: -111.9677822
+Position estimated accurate to: 104 feet.
+Current altitude: 1124 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 21 mph.
+Heading: 0degrees
+
+
+69. Current latitude: 33.3775639
+Current longitude: -111.9677993
+Position estimated accurate to: 52 feet.
+Current altitude: 1145 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 19 mph.
+Heading: 0degrees
+
+
+70. Current latitude: 33.3781331
+Current longitude: -111.967784
+Position estimated accurate to: 39 feet.
+Current altitude: 1172 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 20 mph.
+Heading: 1degrees
+
+
+71. Current latitude: 33.3787834
+Current longitude: -111.9677881
+Position estimated accurate to: 39 feet.
+Current altitude: 1163 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 13 mph.
+Heading: 0degrees
+
+
+72. Current latitude: 33.3794259
+Current longitude: -111.9677893
+Position estimated accurate to: 78 feet.
+Current altitude: 1174 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 20 mph.
+Heading: 0degrees
+
+
+73. Current latitude: 33.3804192
+Current longitude: -111.967861
+Position estimated accurate to: 52 feet.
+Current altitude: 1139 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 27 mph.
+Heading: 357degrees
+
+
+74. Current latitude: 33.3815748
+Current longitude: -111.9678038
+Position estimated accurate to: 52 feet.
+Current altitude: 1129 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 29 mph.
+Heading: 2degrees
+
+
+75. Current latitude: 33.3827223
+Current longitude: -111.9676999
+Position estimated accurate to: 26 feet.
+Current altitude: 1094 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 26 mph.
+Heading: 4degrees
+
+
+76. Current latitude: 33.3832599
+Current longitude: -111.9676674
+Position estimated accurate to: 78 feet.
+Current altitude: 1113 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 15 mph.
+Heading: 2degrees
+
+
+77. Current latitude: 33.3840992
+Current longitude: -111.9677259
+Position estimated accurate to: 26 feet.
+Current altitude: 1101 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 19 mph.
+Heading: 357degrees
+
+
+78. Current latitude: 33.3850579
+Current longitude: -111.9676875
+Position estimated accurate to: 39 feet.
+Current altitude: 1101 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 26 mph.
+Heading: 1degrees
+
+
+79. Current latitude: 33.3859212
+Current longitude: -111.9676485
+Position estimated accurate to: 150 feet.
+Current altitude: 1098 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 27 mph.
+Heading: 2degrees
+
+
+80. Current latitude: 33.3870996
+Current longitude: -111.9675458
+Position estimated accurate to: 20 feet.
+Current altitude: 1102 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 21 mph.
+Heading: 3degrees
+
+
+81. Current latitude: 33.3877624
+Current longitude: -111.9676527
+Position estimated accurate to: 78 feet.
+Current altitude: 1092 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 17 mph.
+Heading: 353degrees
+
+
+82. Current latitude: 33.388052
+Current longitude: -111.9676686
+Position estimated accurate to: 52 feet.
+Current altitude: 1104 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 6 mph.
+Heading: 358degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+83. Current latitude: 33.3884294
+Current longitude: -111.9676364
+Position estimated accurate to: 26 feet.
+Current altitude: 1091 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+84. Current latitude: 33.3887416
+Current longitude: -111.9675926
+Position estimated accurate to: 26 feet.
+Current altitude: 1074 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 8 mph.
+Heading: 6degrees
+
+
+85. Current latitude: 33.3891196
+Current longitude: -111.9675905
+Position estimated accurate to: 104 feet.
+Current altitude: 1040 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 9 mph.
+Heading: 0degrees
+
+
+86. Current latitude: 33.3901729
+Current longitude: -111.9677249
+Position estimated accurate to: 39 feet.
+Current altitude: 1044 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 20 mph.
+Heading: 355degrees
+
+
+87. Current latitude: 33.3906871
+Current longitude: -111.9676154
+Position estimated accurate to: 39 feet.
+Current altitude: 1088 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 18 mph.
+Heading: 9degrees
+
+
+88. Current latitude: 33.3911413
+Current longitude: -111.9676211
+Position estimated accurate to: 102 feet.
+Current altitude: 1172 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 13 mph.
+Heading: 0degrees
+
+
+89. Current latitude: 33.3919226
+Current longitude: -111.9675317
+Position estimated accurate to: 78 feet.
+Current altitude: 1091 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 18 mph.
+Heading: 5degrees
+
+
+90. Current latitude: 33.3925956
+Current longitude: -111.9675149
+Position estimated accurate to: 26 feet.
+Current altitude: 1062 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 19 mph.
+Heading: 1degrees
+
+
+91. Current latitude: 33.3937792
+Current longitude: -111.9674602
+Position estimated accurate to: 39 feet.
+Current altitude: 1067 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 29 mph.
+Heading: 2degrees
+
+
+92. Current latitude: 33.3952197
+Current longitude: -111.9674071
+Position estimated accurate to: 39 feet.
+Current altitude: 1089 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 36 mph.
+Heading: 1degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+93. Current latitude: 33.3989259
+Current longitude: -111.9673659
+Position estimated accurate to: 105 feet.
+Current altitude: 1055 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+Unable to get position
+Geolocation timed out.
+
+Unable to get position
+Geolocation timed out.
+
+94. Current latitude: 33.4027343
+Current longitude: -111.9675835
+Position estimated accurate to: 39 feet.
+Current altitude: 1084 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+95. Current latitude: 33.4046803
+Current longitude: -111.9683007
+Position estimated accurate to: 20 feet.
+Current altitude: 1057 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+96. Current latitude: 33.4056295
+Current longitude: -111.9688565
+Position estimated accurate to: 26 feet.
+Current altitude: 1077 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 33 mph.
+Heading: 334degrees
+
+
+97. Current latitude: 33.4067223
+Current longitude: -111.9696924
+Position estimated accurate to: 39 feet.
+Current altitude: 1090 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 36 mph.
+Heading: 328degrees
+
+
+98. Current latitude: 33.4078137
+Current longitude: -111.9708683
+Position estimated accurate to: 150 feet.
+Current altitude: 1015 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 45 mph.
+Heading: 319degrees
+
+
+99. Current latitude: 33.4093337
+Current longitude: -111.9729478
+Position estimated accurate to: 39 feet.
+Current altitude: 1069 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 48 mph.
+Heading: 312degrees
+
+
+100. Current latitude: 33.4101147
+Current longitude: -111.9745214
+Position estimated accurate to: 52 feet.
+Current altitude: 1067 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 38 mph.
+Heading: 301degrees
+
+
+101. Current latitude: 33.4104888
+Current longitude: -111.9758251
+Position estimated accurate to: 39 feet.
+Current altitude: 1027 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 29 mph.
+Heading: 290degrees
+
+
+102. Current latitude: 33.4108002
+Current longitude: -111.977279
+Position estimated accurate to: 52 feet.
+Current altitude: 1001 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 31 mph.
+Heading: 285degrees
+
+
+103. Current latitude: 33.4110653
+Current longitude: -111.9794709
+Position estimated accurate to: 39 feet.
+Current altitude: 1062 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 38 mph.
+Heading: 279degrees
+
+
+104. Current latitude: 33.4110471
+Current longitude: -111.981503
+Position estimated accurate to: 26 feet.
+Current altitude: 1022 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 47 mph.
+Heading: 270degrees
+
+
+105. Current latitude: 33.4110859
+Current longitude: -111.9830749
+Position estimated accurate to: 147 feet.
+Current altitude: 1060 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 46 mph.
+Heading: 272degrees
+
+
+106. Current latitude: 33.4110885
+Current longitude: -111.9853967
+Position estimated accurate to: 104 feet.
+Current altitude: 1069 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 38 mph.
+Heading: 271degrees
+
+
+107. Current latitude: 33.4110438
+Current longitude: -111.9879874
+Position estimated accurate to: 20 feet.
+Current altitude: 1044 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 41 mph.
+Heading: 269degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+108. Current latitude: 33.4107323
+Current longitude: -111.9895301
+Position estimated accurate to: 143 feet.
+
+
+109. Current latitude: 33.4107323
+Current longitude: -111.9895301
+Position estimated accurate to: 82 feet.
+
+
+Unable to get position
+Geolocation timed out.
+
+110. Current latitude: 33.4110295
+Current longitude: -111.9969878
+Position estimated accurate to: 26 feet.
+Current altitude: 1034 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+111. Current latitude: 33.4109962
+Current longitude: -111.9975797
+Position estimated accurate to: 20 feet.
+Current altitude: 1038 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 11 mph.
+Heading: 267degrees
+
+
+112. Current latitude: 33.4109777
+Current longitude: -111.9983254
+Position estimated accurate to: 26 feet.
+Current altitude: 1057 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 19 mph.
+Heading: 269degrees
+
+
+113. Current latitude: 33.4109646
+Current longitude: -111.9997471
+Position estimated accurate to: 52 feet.
+Current altitude: 1056 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 37 mph.
+Heading: 270degrees
+
+
+114. Current latitude: 33.4109175
+Current longitude: -112.0028564
+Position estimated accurate to: 26 feet.
+Current altitude: 1061 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 49 mph.
+Heading: 269degrees
+
+
+115. Current latitude: 33.410965
+Current longitude: -112.0047699
+Position estimated accurate to: 39 feet.
+Current altitude: 1061 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 56 mph.
+Heading: 272degrees
+
+
+116. Current latitude: 33.4113474
+Current longitude: -112.0084773
+Position estimated accurate to: 20 feet.
+Current altitude: 1007 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 65 mph.
+Heading: 277degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+117. Current latitude: 33.4140353
+Current longitude: -112.014142
+Position estimated accurate to: 157 feet.
+Current altitude: 1023 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+118. Current latitude: 33.4167393
+Current longitude: -112.0162221
+Position estimated accurate to: 26 feet.
+Current altitude: 997 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 80 mph.
+Heading: 328degrees
+
+
+119. Current latitude: 33.4187134
+Current longitude: -112.0177541
+Position estimated accurate to: 52 feet.
+Current altitude: 1029 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 73 mph.
+Heading: 328degrees
+
+
+120. Current latitude: 33.4217018
+Current longitude: -112.020491
+Position estimated accurate to: 78 feet.
+Current altitude: 1012 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 72 mph.
+Heading: 323degrees
+
+
+121. Current latitude: 33.4232689
+Current longitude: -112.0220835
+Position estimated accurate to: 78 feet.
+Current altitude: 971 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 73 mph.
+Heading: 320degrees
+
+
+122. Current latitude: 33.4249925
+Current longitude: -112.0248655
+Position estimated accurate to: 78 feet.
+Current altitude: 1018 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 72 mph.
+Heading: 308degrees
+
+
+123. Current latitude: 33.4263999
+Current longitude: -112.0280827
+Position estimated accurate to: 78 feet.
+Current altitude: 1107 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 75 mph.
+Heading: 298degrees
+
+
+124. Current latitude: 33.4267252
+Current longitude: -112.031619
+Position estimated accurate to: 52 feet.
+Current altitude: 894 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 74 mph.
+Heading: 277degrees
+
+
+125. Current latitude: 33.4274156
+Current longitude: -112.0347168
+Position estimated accurate to: 153 feet.
+Current altitude: 978 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 66 mph.
+Heading: 285degrees
+
+
+126. Current latitude: 33.428739
+Current longitude: -112.0367568
+Position estimated accurate to: 103 feet.
+Current altitude: 1006 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 67 mph.
+Heading: 306degrees
+
+
+127. Current latitude: 33.4317524
+Current longitude: -112.0375161
+Position estimated accurate to: 78 feet.
+Current altitude: 998 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 63 mph.
+Heading: 347degrees
+
+
+128. Current latitude: 33.4343642
+Current longitude: -112.0375575
+Position estimated accurate to: 104 feet.
+Current altitude: 1001 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 59 mph.
+Heading: 0degrees
+
+
+129. Current latitude: 33.437147
+Current longitude: -112.0374803
+Position estimated accurate to: 39 feet.
+Current altitude: 998 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 77 mph.
+Heading: 1degrees
+
+
+130. Current latitude: 33.4399526
+Current longitude: -112.0371669
+Position estimated accurate to: 26 feet.
+Current altitude: 995 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 64 mph.
+Heading: 5degrees
+
+
+131. Current latitude: 33.442335
+Current longitude: -112.0371672
+Position estimated accurate to: 104 feet.
+Current altitude: 1039 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 66 mph.
+Heading: 0degrees
+
+
+132. Current latitude: 33.442335
+Current longitude: -112.0371672
+Position estimated accurate to: 104 feet.
+Current altitude: 1039 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 66 mph.
+Heading: 0degrees
+
+
+133. Current latitude: 33.4480068
+Current longitude: -112.0145471
+Position estimated accurate to: 73 feet.
+
+
+134. Current latitude: 33.4480068
+Current longitude: -112.0145471
+Position estimated accurate to: 73 feet.
+
+
+135. Current latitude: 33.4480068
+Current longitude: -112.0145471
+Position estimated accurate to: 75 feet.
+
+
+136. Current latitude: 33.4556335
+Current longitude: -112.0365496
+Position estimated accurate to: 53 feet.
+Current altitude: 1033 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 63 mph.
+Heading: 1degrees
+
+
+137. Current latitude: 33.4581814
+Current longitude: -112.0366782
+Position estimated accurate to: 78 feet.
+Current altitude: 974 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 63 mph.
+Heading: 358degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+138. Current latitude: 33.4636134
+Current longitude: -112.0381018
+Position estimated accurate to: 20 feet.
+Current altitude: 992 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+139. Current latitude: 33.4652942
+Current longitude: -112.0380603
+Position estimated accurate to: 52 feet.
+Current altitude: 1014 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 60 mph.
+Heading: 1degrees
+
+
+140. Current latitude: 33.4678071
+Current longitude: -112.0381219
+Position estimated accurate to: 103 feet.
+Current altitude: 1063 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 57 mph.
+Heading: 359degrees
+
+
+141. Current latitude: 33.4702839
+Current longitude: -112.0385367
+Position estimated accurate to: 39 feet.
+Current altitude: 1052 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 62 mph.
+Heading: 353degrees
+
+
+142. Current latitude: 33.4733224
+Current longitude: -112.0386424
+Position estimated accurate to: 104 feet.
+Current altitude: 988 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 58 mph.
+Heading: 359degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+143. Current latitude: 33.4778324
+Current longitude: -112.0382805
+Position estimated accurate to: 52 feet.
+Current altitude: 1059 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+144. Current latitude: 33.482812
+Current longitude: -112.0393122
+Position estimated accurate to: 105 feet.
+Current altitude: 1054 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+145. Current latitude: 33.4849215
+Current longitude: -112.0405737
+Position estimated accurate to: 20 feet.
+Current altitude: 1003 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 59 mph.
+Heading: 334degrees
+
+
+146. Current latitude: 33.4868706
+Current longitude: -112.0417273
+Position estimated accurate to: 39 feet.
+Current altitude: 1049 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 60 mph.
+Heading: 334degrees
+
+
+147. Current latitude: 33.4889362
+Current longitude: -112.0427603
+Position estimated accurate to: 150 feet.
+Current altitude: 997 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 68 mph.
+Heading: 338degrees
+
+
+148. Current latitude: 33.4922719
+Current longitude: -112.0440062
+Position estimated accurate to: 20 feet.
+Current altitude: 947 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 63 mph.
+Heading: 343degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+Unable to get position
+Geolocation timed out.
+
+Unable to get position
+Geolocation timed out.
+
+Unable to get position
+Geolocation timed out.
+
+Unable to get position
+Geolocation timed out.
+
+149. Current latitude: 33.507795
+Current longitude: -112.0444231
+Position estimated accurate to: 79 feet.
+Current altitude: 1063 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+150. Current latitude: 33.5103304
+Current longitude: -112.0442889
+Position estimated accurate to: 39 feet.
+Current altitude: 1012 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 63 mph.
+Heading: 2degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+151. Current latitude: 33.514785
+Current longitude: -112.0441611
+Position estimated accurate to: 26 feet.
+Current altitude: 1006 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+Unable to get position
+Geolocation timed out.
+
+152. Current latitude: 33.5223023
+Current longitude: -112.043812
+Position estimated accurate to: 105 feet.
+Current altitude: 1086 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+153. Current latitude: 33.5253728
+Current longitude: -112.0435235
+Position estimated accurate to: 39 feet.
+Current altitude: 1074 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 64 mph.
+Heading: 4degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+Unable to get position
+Geolocation timed out.
+
+154. Current latitude: 33.532475
+Current longitude: -112.0424049
+Position estimated accurate to: 20 feet.
+Current altitude: 1112 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+155. Current latitude: 33.5344785
+Current longitude: -112.0414499
+Position estimated accurate to: 52 feet.
+Current altitude: 1137 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 59 mph.
+Heading: 21degrees
+
+
+156. Current latitude: 33.5371206
+Current longitude: -112.0415218
+Position estimated accurate to: 26 feet.
+Current altitude: 1145 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 60 mph.
+Heading: 0degrees
+
+
+157. Current latitude: 33.5393761
+Current longitude: -112.0414614
+Position estimated accurate to: 104 feet.
+Current altitude: 1113 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 51 mph.
+Heading: 1degrees
+
+
+158. Current latitude: 33.5415757
+Current longitude: -112.0407753
+Position estimated accurate to: 26 feet.
+Current altitude: 1121 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 79 mph.
+Heading: 14degrees
+
+
+159. Current latitude: 33.544362
+Current longitude: -112.0399331
+Position estimated accurate to: 103 feet.
+Current altitude: 1178 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 65 mph.
+Heading: 14degrees
+
+
+160. Current latitude: 33.547422
+Current longitude: -112.0390809
+Position estimated accurate to: 26 feet.
+Current altitude: 1187 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 65 mph.
+Heading: 13degrees
+
+
+161. Current latitude: 33.5500836
+Current longitude: -112.0382427
+Position estimated accurate to: 26 feet.
+Current altitude: 1170 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 68 mph.
+Heading: 14degrees
+
+
+162. Current latitude: 33.5526896
+Current longitude: -112.0376902
+Position estimated accurate to: 39 feet.
+Current altitude: 1241 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 66 mph.
+Heading: 10degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+163. Current latitude: 33.557365
+Current longitude: -112.0379692
+Position estimated accurate to: 79 feet.
+Current altitude: 1250 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+164. Current latitude: 33.5603634
+Current longitude: -112.0381307
+Position estimated accurate to: 26 feet.
+Current altitude: 1290 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 68 mph.
+Heading: 358degrees
+
+
+165. Current latitude: 33.5632213
+Current longitude: -112.0363399
+Position estimated accurate to: 39 feet.
+Current altitude: 1252 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 67 mph.
+Heading: 27degrees
+
+
+166. Current latitude: 33.5640645
+Current longitude: -112.0350099
+Position estimated accurate to: 147 feet.
+Current altitude: 1274 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 68 mph.
+Heading: 52degrees
+
+
+167. Current latitude: 33.5656981
+Current longitude: -112.0313341
+Position estimated accurate to: 104 feet.
+Current altitude: 1289 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 67 mph.
+Heading: 60degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+168. Current latitude: 33.5695152
+Current longitude: -112.0261051
+Position estimated accurate to: 20 feet.
+Current altitude: 1309 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+169. Current latitude: 33.57114
+Current longitude: -112.0241772
+Position estimated accurate to: 105 feet.
+Current altitude: 1204 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 63 mph.
+Heading: 44degrees
+
+
+170. Current latitude: 33.5727882
+Current longitude: -112.0215435
+Position estimated accurate to: 26 feet.
+Current altitude: 1339 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 75 mph.
+Heading: 52degrees
+
+
+171. Current latitude: 33.5739134
+Current longitude: -112.0181409
+Position estimated accurate to: 26 feet.
+Current altitude: 1316 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 69 mph.
+Heading: 68degrees
+
+
+172. Current latitude: 33.5750131
+Current longitude: -112.0153596
+Position estimated accurate to: 39 feet.
+Current altitude: 1281 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 70 mph.
+Heading: 64degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+173. Current latitude: 33.5793097
+Current longitude: -112.0107064
+Position estimated accurate to: 105 feet.
+Current altitude: 1310 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+174. Current latitude: 33.5819249
+Current longitude: -112.0098638
+Position estimated accurate to: 20 feet.
+Current altitude: 1328 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 68 mph.
+Heading: 15degrees
+
+
+175. Current latitude: 33.5848327
+Current longitude: -112.0096659
+Position estimated accurate to: 39 feet.
+Current altitude: 1289 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 72 mph.
+Heading: 3degrees
+
+
+176. Current latitude: 33.5880739
+Current longitude: -112.0094476
+Position estimated accurate to: 26 feet.
+Current altitude: 1308 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 67 mph.
+Heading: 3degrees
+
+
+177. Current latitude: 33.5903962
+Current longitude: -112.0093015
+Position estimated accurate to: 26 feet.
+Current altitude: 1318 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 72 mph.
+Heading: 3degrees
+
+
+178. Current latitude: 33.5937308
+Current longitude: -112.0093115
+Position estimated accurate to: 26 feet.
+Current altitude: 1299 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 69 mph.
+Heading: 0degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+179. Current latitude: 33.5985191
+Current longitude: -112.0093631
+Position estimated accurate to: 39 feet.
+Current altitude: 1278 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+180. Current latitude: 33.6014091
+Current longitude: -112.0093415
+Position estimated accurate to: 26 feet.
+Current altitude: 1303 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 72 mph.
+Heading: 0degrees
+
+
+181. Current latitude: 33.6041114
+Current longitude: -112.0093678
+Position estimated accurate to: 39 feet.
+Current altitude: 1300 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 67 mph.
+Heading: 0degrees
+
+
+182. Current latitude: 33.6070057
+Current longitude: -112.0093979
+Position estimated accurate to: 78 feet.
+Current altitude: 1329 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 72 mph.
+Heading: 0degrees
+
+
+183. Current latitude: 33.6105619
+Current longitude: -112.0094754
+Position estimated accurate to: 26 feet.
+Current altitude: 1317 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 68 mph.
+Heading: 359degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+184. Current latitude: 33.6156574
+Current longitude: -112.0094663
+Position estimated accurate to: 26 feet.
+Current altitude: 1297 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+185. Current latitude: 33.6181676
+Current longitude: -112.0094655
+Position estimated accurate to: 105 feet.
+Current altitude: 1329 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 69 mph.
+Heading: 0degrees
+
+
+186. Current latitude: 33.6220399
+Current longitude: -112.0085752
+Position estimated accurate to: 39 feet.
+Current altitude: 1279 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 70 mph.
+Heading: 10degrees
+
+
+187. Current latitude: 33.6238237
+Current longitude: -112.0077668
+Position estimated accurate to: 78 feet.
+Current altitude: 1305 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 68 mph.
+Heading: 20degrees
+
+
+188. Current latitude: 33.6268036
+Current longitude: -112.0064655
+Position estimated accurate to: 26 feet.
+Current altitude: 1331 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 72 mph.
+Heading: 20degrees
+
+
+189. Current latitude: 33.6289484
+Current longitude: -112.0055374
+Position estimated accurate to: 52 feet.
+Current altitude: 1307 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 71 mph.
+Heading: 19degrees
+
+
+190. Current latitude: 33.6319012
+Current longitude: -112.0043614
+Position estimated accurate to: 26 feet.
+Current altitude: 1359 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 70 mph.
+Heading: 18degrees
+
+
+191. Current latitude: 33.6345986
+Current longitude: -112.0040784
+Position estimated accurate to: 26 feet.
+Current altitude: 1347 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 68 mph.
+Heading: 5degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+192. Current latitude: 33.6400357
+Current longitude: -112.0030304
+Position estimated accurate to: 105 feet.
+Current altitude: 1309 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+193. Current latitude: 33.6433251
+Current longitude: -112.0018628
+Position estimated accurate to: 19 feet.
+Current altitude: 1385 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 71 mph.
+Heading: 16degrees
+
+
+194. Current latitude: 33.6455232
+Current longitude: -112.0010711
+Position estimated accurate to: 104 feet.
+Current altitude: 1425 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 71 mph.
+Heading: 16degrees
+
+
+195. Current latitude: 33.6481986
+Current longitude: -112.0007245
+Position estimated accurate to: 26 feet.
+Current altitude: 1403 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 67 mph.
+Heading: 6degrees
+
+
+196. Current latitude: 33.6511495
+Current longitude: -112.0004637
+Position estimated accurate to: 78 feet.
+Current altitude: 1320 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 73 mph.
+Heading: 4degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+197. Current latitude: 33.6572391
+Current longitude: -111.9998329
+Position estimated accurate to: 20 feet.
+Current altitude: 1406 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+198. Current latitude: 33.659309
+Current longitude: -111.9997114
+Position estimated accurate to: 39 feet.
+Current altitude: 1415 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 73 mph.
+Heading: 2degrees
+
+
+199. Current latitude: 33.6624961
+Current longitude: -111.9996296
+Position estimated accurate to: 78 feet.
+Current altitude: 1447 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 73 mph.
+Heading: 1degrees
+
+
+200. Current latitude: 33.6653963
+Current longitude: -111.9995636
+Position estimated accurate to: 78 feet.
+Current altitude: 1469 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 72 mph.
+Heading: 1degrees
+
+
+201. Current latitude: 33.6679727
+Current longitude: -111.9995292
+Position estimated accurate to: 26 feet.
+Current altitude: 1505 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 71 mph.
+Heading: 0degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+202. Current latitude: 33.6727243
+Current longitude: -112.0028748
+Position estimated accurate to: 105 feet.
+Current altitude: 1465 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+Unable to get position
+Geolocation timed out.
+
+203. Current latitude: 33.6729871
+Current longitude: -112.0109537
+Position estimated accurate to: 79 feet.
+Current altitude: 1474 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+204. Current latitude: 33.6730964
+Current longitude: -112.0146
+Position estimated accurate to: 105 feet.
+Current altitude: 1358 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 58 mph.
+Heading: 273degrees
+
+
+205. Current latitude: 33.6729831
+Current longitude: -112.0174661
+Position estimated accurate to: 78 feet.
+Current altitude: 1451 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 74 mph.
+Heading: 268degrees
+
+
+206. Current latitude: 33.672893
+Current longitude: -112.0217274
+Position estimated accurate to: 78 feet.
+Current altitude: 1424 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 68 mph.
+Heading: 269degrees
+
+
+207. Current latitude: 33.6728742
+Current longitude: -112.0237837
+Position estimated accurate to: 78 feet.
+Current altitude: 1475 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 71 mph.
+Heading: 270degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+208. Current latitude: 33.6727107
+Current longitude: -112.0305115
+Position estimated accurate to: 105 feet.
+Current altitude: 1501 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+209. Current latitude: 33.6717149
+Current longitude: -112.0340194
+Position estimated accurate to: 39 feet.
+Current altitude: 1443 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 64 mph.
+Heading: 252degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+Unable to get position
+Geolocation timed out.
+
+210. Current latitude: 33.6690433
+Current longitude: -112.0423906
+Position estimated accurate to: 105 feet.
+Current altitude: 1321 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+211. Current latitude: 33.6691189
+Current longitude: -112.0483313
+Position estimated accurate to: 105 feet.
+Current altitude: 1441 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+Unable to get position
+Geolocation timed out.
+
+212. Current latitude: 33.6692036
+Current longitude: -112.0580718
+Position estimated accurate to: 79 feet.
+Current altitude: 1345 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+213. Current latitude: 33.6691648
+Current longitude: -112.0620028
+Position estimated accurate to: 26 feet.
+Current altitude: 1325 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 68 mph.
+Heading: 270degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+214. Current latitude: 33.6691027
+Current longitude: -112.0678081
+Position estimated accurate to: 39 feet.
+Current altitude: 1443 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+Unable to get position
+Geolocation timed out.
+
+Unable to get position
+Geolocation timed out.
+
+215. Current latitude: 33.6688744
+Current longitude: -112.0806507
+Position estimated accurate to: 52 feet.
+Current altitude: 1327 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+216. Current latitude: 33.669129
+Current longitude: -112.0870598
+Position estimated accurate to: 20 feet.
+Current altitude: 1296 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+217. Current latitude: 33.6695726
+Current longitude: -112.0907322
+Position estimated accurate to: 19 feet.
+Current altitude: 1280 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 64 mph.
+Heading: 279degrees
+
+
+Unable to get position
+Geolocation timed out.
+
+Unable to get position
+Geolocation timed out.
+
+218. Current latitude: 33.6700851
+Current longitude: -112.0992003
+Position estimated accurate to: 20 feet.
+Current altitude: 1329 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+219. Current latitude: 33.6703574
+Current longitude: -112.0997941
+Position estimated accurate to: 157 feet.
+Current altitude: 1314 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 17 mph.
+Heading: 299degrees
+
+
+220. Current latitude: 33.6716207
+Current longitude: -112.0998561
+Position estimated accurate to: 26 feet.
+Current altitude: 1303 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 29 mph.
+Heading: 354degrees
+
+
+221. Current latitude: 33.6730104
+Current longitude: -112.0998967
+Position estimated accurate to: 78 feet.
+Current altitude: 1360 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 38 mph.
+Heading: 359degrees
+
+
+222. Current latitude: 33.6745848
+Current longitude: -112.0998636
+Position estimated accurate to: 52 feet.
+Current altitude: 1324 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 39 mph.
+Heading: 0degrees
+
+
+223. Current latitude: 33.6745848
+Current longitude: -112.0998636
+Position estimated accurate to: 52 feet.
+Current altitude: 1324 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 39 mph.
+Heading: 0degrees
+
+
+224. Current latitude: 33.6753638
+Current longitude: -112.0994325
+Position estimated accurate to: 167 feet.
+
+
+225. Current latitude: 33.6775425
+Current longitude: -112.0982369
+Position estimated accurate to: 111 feet.
+
+
+226. Current latitude: 33.6775425
+Current longitude: -112.0982369
+Position estimated accurate to: 111 feet.
+
+
+227. Current latitude: 33.6790212
+Current longitude: -112.0997444
+Position estimated accurate to: 87 feet.
+
+
+228. Current latitude: 33.6790212
+Current longitude: -112.0997444
+Position estimated accurate to: 87 feet.
+
+
+229. Current latitude: 33.681657
+Current longitude: -112.1003231
+Position estimated accurate to: 129 feet.
+
+
+230. Current latitude: 33.6836153
+Current longitude: -112.0997972
+Position estimated accurate to: 26 feet.
+Current altitude: 1356 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 0 mph.
+Heading: 0degrees
+
+
+231. Current latitude: 33.6845241
+Current longitude: -112.0998155
+Position estimated accurate to: 79 feet.
+Current altitude: 1327 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 25 mph.
+Heading: 0degrees
+
+
+232. Current latitude: 33.6859378
+Current longitude: -112.0998076
+Position estimated accurate to: 39 feet.
+Current altitude: 1323 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 38 mph.
+Heading: 0degrees
+
+
+233. Current latitude: 33.6875862
+Current longitude: -112.0997999
+Position estimated accurate to: 52 feet.
+Current altitude: 1322 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 41 mph.
+Heading: 0degrees
+
+
+234. Current latitude: 33.6875862
+Current longitude: -112.0997999
+Position estimated accurate to: 52 feet.
+Current altitude: 1322 feet.
+Altitude estimated accurate to: 0 feet.
+Speed: 41 mph.
+Heading: 0degrees
+
+
+235. Current latitude: 33.688463
+Current longitude: -112.0997713
+Position estimated accurate to: 101 feet.
+
+
+236. Current latitude: 33.6903417
+Current longitude: -112.0997811
+Position estimated accurate to: 143 feet.
+
+
+237. Current latitude: 33.6903417
+Current longitude: -112.0997811
+Position estimated accurate to: 143 feet.
+
+
+238. Current latitude: 33.6912423
+Current longitude: -112.0987206
+Position estimated accurate to: 177 feet.
+
+
+239. Current latitude: 33.6912395
+Current longitude: -112.0972394
+Position estimated accurate to: 94 feet.
+
+
+240. Current latitude: 33.6912395
+Current longitude: -112.0972394
+Position estimated accurate to: 98 feet.
+
+
+241. Current latitude: 33.6918394
+Current longitude: -112.0954902
+Position estimated accurate to: 113 feet.
+
+
+242. Current latitude: 33.6918608
+Current longitude: -112.0954864
+Position estimated accurate to: 106 feet.
+
+
+243. Current latitude: 33.6922997
+Current longitude: -112.0948992
+Position estimated accurate to: 108 feet.
+
+
+244. Current latitude: 33.6922997
+Current longitude: -112.0948992
+Position estimated accurate to: 108 feet.
+
+
+Unable to get position
+Geolocation timed out.
