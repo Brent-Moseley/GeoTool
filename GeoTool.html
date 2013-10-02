@@ -1,0 +1,259 @@
+<html>
+	<head>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    
+	<style type="text/css">
+		#container {
+			width: 1025px;
+			height: 800px;
+			margin: auto;
+		}
+
+		#title {
+			height: 100px;
+			width: 1015px;
+			margin: auto;
+			font-size: 24px;
+			border-style:outset;
+			border-width:3px;
+		}
+		#title_inner {
+			height: 98px;
+			width: 650px;
+			margin: auto;
+		}
+
+		#GPS_data {
+			height: 500px;
+			width: 420px;
+			font-size: 16px;
+			float: left;
+			overflow-y: scroll;
+			border-style:outset;
+			border-width:3px;
+		}
+		#map {
+			height: 400px;
+			width: 550px;
+			float: right;
+			border-style:outset;
+			border-width:5px;
+		}
+		#email {
+			height: 60px;
+			padding: 5px;
+			margin-left: 30px;
+			width: 290px;
+			font-size: 16px;
+			background-color: #DDD;
+			display: inline-block;
+		}
+	</style>
+
+	</head>
+	<body>
+	<div id='container'>
+		<div id='title'>
+			<div id='title_inner'>
+				Geolocation Tool
+
+				<!-- Controls     -->
+				<div id="email">
+					Enter to receive an email of the position log:<br />
+					<input id="emailf" type="email" />
+					<button id="emailb" style="width: 60px;" onclick="doEmail()">Send</button>
+				</div>
+				<br />
+				<button id="Start" style="width: 70px;" onclick="start()">Start</button>
+				<button id="Stop" style="width: 70px;" onclick="stop()">Stop</button>
+				<button id="Stop" style="width: 70px; margin-left: 30px; margin-right: 20px" onclick="cleargps()">Clear</button>
+				<span style="font-size: 18px">Auto Center:<input id="center" type="checkbox" checked="checked">
+				Auto Scaling:<input id="scale" type="checkbox">
+				Metric:<input id="metric" type="checkbox" checked="checked"></span>
+			</div>
+		</div>
+
+		<!-- GPS data and map containers    -->
+		<div id='GPS_data'></div>
+		<div id='map'></div>
+	</div>	
+
+
+	<script type="text/javascript">
+		var counter = 1;			// counter for number of GPS readings displayed
+		goodData = false;			// Has good data been displayed?
+		var map;					// map object
+		var markers = [];			// array of markers on the map
+		var handler;				// the timer handler
+
+		// Get window dimensions, if this is a mobile device or tablet with limited resolution, scale down.
+		var totalWidth = window.innerWidth;
+		if (totalWidth < 970) {
+			$("#container").height($("#container").height() * 0.6);
+			$("#container").width($("#container").width() * 0.6);
+			$("#title").height($("#title").height() * 1.5);
+			$("#title").width($("#title").width() * 0.6);
+			$("#title_inner").height($("#title_inner").height() * 1.5);
+			$("#title_inner").width($("#title_inner").width() * 0.6);
+			$("#GPS_data").height($("#GPS_data").height() * 0.6);
+			$("#GPS_data").width($("#GPS_data").width() * 0.6);
+			$("#map").height($("#map").height() * 0.6);
+			$("#map").width($("#map").width() * 0.6);
+		}
+
+		// Function to generate the email with GPS data, based on the user provided email
+		function doEmail() {
+			var body = $("#GPS_data").html();
+			var bodyhr = body.replace(/<br>/g, "\n");
+			var emailaddr = $("#emailf").val();
+
+			$.ajax({
+				url: 'sendemail.php',
+				type: 'POST',       
+				dataType: 'json',   // type of response from server
+				data: {             // parameters to send with request
+					email: emailaddr,
+					body: bodyhr
+				}
+			});	
+
+		}
+
+		// Start button handler, initiate the timer, then disable the start button.
+		function start() {
+			handler = setInterval(function(){doLocation();},10000);   // 10000
+			$("#Start").attr("disabled", "disabled");
+			$("#Stop").removeAttr("disabled");
+		}
+
+		// Stop button handler, halt the timer, then disable the stop button.
+		function stop() {
+			clearInterval (handler);
+			$("#Stop").attr("disabled", "disabled");
+			$("#Start").removeAttr("disabled");
+		}
+
+		// Function to clear all GPS data as well as map markers, then reset.
+		function cleargps () {
+			if (goodData) {
+				for (i=1; i<counter; i++) {
+					markers[i].setMap(null);	// remove the marker from the map
+				}
+				goodData = false;			// reset
+			}
+			$("#GPS_data").html("");		// clear GPS position listing
+			counter = 1;					// reset counter
+		}
+
+		// Main timer event handler to get current position, convert metric units when desired, add entry to GPS log, 
+		// and then add a marker to the map. 
+		function doLocation() {
+			navigator.geolocation.getCurrentPosition(function(pos) {
+				var conv1 = 1.0;		// units conversion factor
+				var conv2 = 1.0;
+				var units1 = " meters."; // text for current units
+				var units2 = " meters / s.";
+
+				var position = counter + ". Current latitude: " + pos.coords.latitude;
+				position += "<br />Current longitude: " + pos.coords.longitude;
+
+				// if metric option is not checked, convert units to english
+				if (!$("#metric").is(":checked")) {
+					units1 = " feet.";
+					units2 = " mph.";
+					conv1 = 3.28;    // meters to feet conversion
+					conv2 = 2.24;    // meters / s to mph conversion
+				}	
+
+				// Build string for output to GPS log
+				position += "<br />Position estimated accurate to: " + Math.round(pos.coords.accuracy*conv1) + units1;
+				if (pos.coords.altitude !== null || pos.coords.speed !== null || pos.coords.heading !== null)  {
+					// If we received any readings for altitude, speed, or heading add that info in after conversion, rounding,
+					// and handling any values that are null.
+					position += "<br />Current altitude: " + checkNull(Math.round(pos.coords.altitude*conv1)) + units1;
+					position += "<br />Altitude estimated accurate to: " + checkNull(Math.round(pos.coords.altitudeAccuracy*conv1)) + units1;			
+					position += "<br />Speed: " + checkNull(Math.round(pos.coords.speed*conv2)) + units2;
+					position += "<br />Heading: " + checkNull(Math.round(pos.coords.heading)) + "degrees"; 
+				}	
+				position += "<br /><br />";
+
+				output (position, 'GPS_data');		// output GPS data
+
+				// Place new marker on map
+				var myLatlng = new google.maps.LatLng(pos.coords.latitude, pos.coords.longitude);
+				markers[counter] = new google.maps.Marker({
+				    position: myLatlng,
+				    map: map,
+				    title:"Geolocation Tool"
+				});
+				markers[counter].setMap(map);
+				goodData = true;				// signal that we have plotted good data
+
+				// TODO: add bounds extending code....
+				//var bounds = new google.maps.LatLngBounds();
+				//bounds.extend(myLatlng);
+				//map.fitBounds(bounds);
+
+				// If user option is checked to re-center after adding new marker, do so
+				if ($("#center").is(":checked")) {
+					map.setCenter(myLatlng);
+				}	
+				counter++;
+
+
+			}, function(err) {
+				// Output an error message if something went wrong
+				var error = "Unable to get position<br />";
+				switch (err.code) {
+					case 1:
+						error += "Permission to use Geolocation denied.<br />";
+						break;
+					case 2:
+						error += "Position of this device could not be determined.<br />";
+						break;				
+					case 3:
+						error += "Geolocation timed out.<br />";
+						break;					
+				}
+				output (error, 'GPS_data');
+			}, {'enableHighAccuracy': true, 'timeout': 9000, 'maximumAge': 0});   // GPS options
+		}
+
+
+		// Function to handle output of null values
+		function checkNull(value) {
+			if (value === null) {
+				return ("unknown");
+			}
+			else {
+				return (value);
+			}
+			return "some serious error";
+
+		}
+
+		// Helper function to output content to a div
+		function output (content, div) {
+			document.getElementById(div).innerHTML += content + "\n";
+		}
+
+		// initialize the map
+		function initialize() {
+		  var mapOptions = {
+		    zoom: 11,
+		    center: new google.maps.LatLng(33.357, -111.844),
+		    mapTypeId: google.maps.MapTypeId.ROADMAP
+		  };
+		  map = new google.maps.Map(document.getElementById('map'),
+		      mapOptions);
+		}
+
+		// create the actual map element
+		google.maps.event.addDomListener(window, 'load', initialize);		
+
+
+	</script>
+
+	</body>
+</html>
