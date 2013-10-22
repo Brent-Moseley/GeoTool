@@ -38,6 +38,10 @@ end
 
 def make_new_thread (sum, &block)
 	num_threads = Random.rand(6)    # simulate new jobs coming in, create a thread for each
+	if Random.rand(4) == 1 
+		num_threads += Random.rand(8) + 6   # simulate a big batch
+		puts '!!! Big batch'
+	end
 	yield num_threads
 
 	#  Create all threads
