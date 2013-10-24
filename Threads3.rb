@@ -46,7 +46,7 @@ def make_new_thread (sum, &block)
 
 	#  Create all threads
 	while (num_threads > 0)
-		tt = Thread.new(num_threads) {  |threads|
+		tt = Thread.new(num_threads) do |threads|
 			sums = Random.rand(30000) * sum  	# Simulate some decreasing amount of work to do
 
 			aggregate = 0
@@ -55,7 +55,7 @@ def make_new_thread (sum, &block)
 			end
 
 			puts "   Sub-thread " + sum.to_s + "." + threads.to_s + " calculated: " + nice_print(aggregate) + "\n"
-		}
+		end
 
 		@thread_pool << tt		# Add this thread to the list of threads
 		num_threads -= 1
